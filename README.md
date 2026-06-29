@@ -1,4 +1,4 @@
-```markdown
+
 # My Pregnancy Story
 
 > **Note:** This repository contains the **Portfolio Edition** of the application, prepared for demonstration and recruitment purposes. It showcases the complete pregnancy planning workflow and key features while using fictional data to protect personal information.
